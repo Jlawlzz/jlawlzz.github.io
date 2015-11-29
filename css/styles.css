@@ -1,0 +1,116 @@
+body {
+    background-image: url("http://1nova.com/wallpapers/wp-content/uploads/sites/34/2015/02/Retro-80s-Arcade-Game.jpg");
+    background-attachment: fixed;
+    font-family: 'Lucida Sans Typewriter', 'Lucida Console', monaco, 'Bitstream Vera Sans Mono', monospace;
+}
+
+#delorean {
+  height: 400px;
+}
+
+.intro {
+  color: rgb(51, 204, 255);
+  text-align: center;
+}
+
+.titles {
+  color: rgb(51, 204, 255);
+  text-align: center;
+}
+
+.content1 {
+  background-color: rgba(0, 0, 0, 0.5);
+
+  text-align: center;
+}
+
+.content2 {
+  background-color: rgba(0, 0, 0, 0.5);
+
+  text-align: left;
+}
+
+.list {
+  color: rgb(255, 153, 0);
+  text-align: left;
+}
+
+.btn {
+  -webkit-border-radius: 24;
+  -moz-border-radius: 24;
+  border-radius: 24px;
+  color: #ffffff;
+  font-size: 30px;
+  background: #ffcc00;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  text-align: center;
+}
+
+.btn:hover {
+  background-image: url("https://s-media-cache-ak0.pinimg.com/736x/35/76/13/3576132b50768379d31103f2a12b9580.jpg");
+  text-decoration: none;
+}
+
+.home-btn {
+  -webkit-border-radius: 24;
+  -moz-border-radius: 24;
+  border-radius: 24px;
+  color: #ffffff;
+  font-size: 30px;
+  background: #00ccff;
+  padding: 15px 100px 15px 100px;
+  text-decoration: none;
+  text-align: center;
+}
+
+.home-btn:hover {
+  background-image: url("http://png.clipart.me/graphics/previews/182/purple-and-black-pixel-pattern_182677016.jpg");
+  text-decoration: none;
+}
+
+h1 {
+  color: rgb(255, 0, 254);
+	font-family: 'Lucida Sans Typewriter', 'Lucida Console', monaco, 'Bitstream Vera Sans Mono', monospace;
+	font-size: 40px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 50px;
+}
+h3 {
+  color: rgb(51, 204, 255);
+	font-family: 'Lucida Sans Typewriter', 'Lucida Console', monaco, 'Bitstream Vera Sans Mono', monospace;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+}
+p {
+  color: rgb(51, 204, 255);
+	font-family: 'Lucida Sans Typewriter', 'Lucida Console', monaco, 'Bitstream Vera Sans Mono', monospace;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
+blockquote {
+  color: rgb(51, 204, 255);
+	font-family: 'Lucida Sans Typewriter', 'Lucida Console', monaco, 'Bitstream Vera Sans Mono', monospace;
+	font-size: 21px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 30px;
+}
+pre {
+  color: rgb(51, 204, 255);
+	font-family: 'Lucida Sans Typewriter', 'Lucida Console', monaco, 'Bitstream Vera Sans Mono', monospace;
+	font-size: 13px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 18.5714px;
+}
